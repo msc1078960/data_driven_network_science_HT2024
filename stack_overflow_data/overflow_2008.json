@@ -1,0 +1,55 @@
+[{
+  "f0_": {
+    "_field_1": "37296",
+    "_field_2": "2008-09-01 00:17:45.597000 UTC",
+    "_field_3": "language-agnostic|distributed|machine-learning|p2p|fault-tolerance"
+  }
+}, {
+  "f0_": {
+    "_field_1": "287309",
+    "_field_2": "2008-11-13 15:50:55.863000 UTC",
+    "_field_3": "matlab|machine-learning|neural-network|roc"
+  }
+}, {
+  "f0_": {
+    "_field_1": "199056",
+    "_field_2": "2008-10-13 21:15:45.083000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "202334",
+    "_field_2": "2008-10-14 18:45:56.273000 UTC",
+    "_field_3": "machine-learning|svm|matlab"
+  }
+}, {
+  "f0_": {
+    "_field_1": "73927",
+    "_field_2": "2008-09-16 15:59:42.540000 UTC",
+    "_field_3": "algorithm|machine-learning|maps|artificial-intelligence|cluster-analysis"
+  }
+}, {
+  "f0_": {
+    "_field_1": "65487",
+    "_field_2": "2008-09-15 18:36:37.567000 UTC",
+    "_field_3": "algorithm|cluster-analysis|machine-learning|nlp"
+  }
+}, {
+  "f0_": {
+    "_field_1": "296513",
+    "_field_2": "2008-11-17 19:04:13.443000 UTC",
+    "_field_3": "statistics|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "345280",
+    "_field_2": "2008-12-05 21:46:46.603000 UTC",
+    "_field_3": "machine-learning|bayesian-networks"
+  }
+}, {
+  "f0_": {
+    "_field_1": "307291",
+    "_field_2": "2008-11-20 23:34:51.913000 UTC",
+    "_field_3": "algorithm|machine-learning|nlp|spell-checking|text-search"
+  }
+}]

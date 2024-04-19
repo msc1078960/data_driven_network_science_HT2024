@@ -1,0 +1,1771 @@
+[{
+  "f0_": {
+    "_field_1": "2265105",
+    "_field_2": "2010-02-15 09:59:25.557000 UTC",
+    "_field_3": "image|machine-learning|computer-vision|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2178624",
+    "_field_2": "2010-02-01 17:17:21.503000 UTC",
+    "_field_3": "machine-learning|neural-network|perceptron|backpropagation"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2275761",
+    "_field_2": "2010-02-16 19:40:37.553000 UTC",
+    "_field_3": "machine-learning|svm|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2126383",
+    "_field_2": "2010-01-24 08:07:08.060000 UTC",
+    "_field_3": "python|artificial-intelligence|machine-learning|data-mining"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2079772",
+    "_field_2": "2010-01-17 02:33:42.500000 UTC",
+    "_field_3": "r|statistics|machine-learning|gaussian"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2047943",
+    "_field_2": "2010-01-12 09:41:29.423000 UTC",
+    "_field_3": "matlab|machine-learning|neural-network|svm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2106766",
+    "_field_2": "2010-01-21 03:39:20.137000 UTC",
+    "_field_3": "image-processing|machine-learning|computer-vision"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2139940",
+    "_field_2": "2010-01-26 14:20:25.720000 UTC",
+    "_field_3": "batch-file|machine-learning|neural-network|backpropagation"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2286438",
+    "_field_2": "2010-02-18 05:07:42.127000 UTC",
+    "_field_3": "python|algorithm|search|machine-learning|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2098956",
+    "_field_2": "2010-01-20 04:03:42.617000 UTC",
+    "_field_3": "image-processing|machine-learning|computer-vision"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2106535",
+    "_field_2": "2010-01-21 02:34:54.700000 UTC",
+    "_field_3": "image-processing|machine-learning|computer-vision|pattern-recognition"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2115364",
+    "_field_2": "2010-01-22 06:01:46.287000 UTC",
+    "_field_3": "machine-learning|pattern-matching|computer-vision"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2002521",
+    "_field_2": "2010-01-04 21:54:38.810000 UTC",
+    "_field_3": "java|machine-learning|bayesian|information-theory"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2087735",
+    "_field_2": "2010-01-18 17:03:53.840000 UTC",
+    "_field_3": "r|cluster-analysis|machine-learning|data-mining"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2284059",
+    "_field_2": "2010-02-17 20:16:51.577000 UTC",
+    "_field_3": "machine-learning|classification|svm|training-data"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2103152",
+    "_field_2": "2010-01-20 16:45:27.950000 UTC",
+    "_field_3": "matlab|r|statistics|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2066005",
+    "_field_2": "2010-01-14 17:11:03.077000 UTC",
+    "_field_3": "machine-learning|nlp|code-reuse|training-data"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2078800",
+    "_field_2": "2010-01-16 20:24:51.070000 UTC",
+    "_field_3": "image-processing|machine-learning|computer-vision|ocr|indic"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2298201",
+    "_field_2": "2010-02-19 17:11:35.220000 UTC",
+    "_field_3": "amazon-s3|amazon-ec2|machine-learning|cloud|data-analysis"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2286442",
+    "_field_2": "2010-02-18 05:08:16.710000 UTC",
+    "_field_3": "math|machine-learning|nlp|classification|ontology"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2148942",
+    "_field_2": "2010-01-27 17:25:31.053000 UTC",
+    "_field_3": "machine-learning|neural-network|training-data"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2115194",
+    "_field_2": "2010-01-22 05:17:21.607000 UTC",
+    "_field_3": "machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2293208",
+    "_field_2": "2010-02-19 00:07:19.757000 UTC",
+    "_field_3": "machine-learning|data-mining|weka"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2304726",
+    "_field_2": "2010-02-21 04:08:09.363000 UTC",
+    "_field_3": "python|logic|machine-learning|reasoning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2190732",
+    "_field_2": "2010-02-03 08:59:10.160000 UTC",
+    "_field_3": "computer-science|machine-learning|neural-network|backpropagation"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2293890",
+    "_field_2": "2010-02-19 03:31:10.150000 UTC",
+    "_field_3": "ruby|programming-languages|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2121655",
+    "_field_2": "2010-01-23 01:18:09.553000 UTC",
+    "_field_3": "machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2163267",
+    "_field_2": "2010-01-29 16:16:58.093000 UTC",
+    "_field_3": "machine-learning|neural-network|signal-processing|pitch-tracking"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2113570",
+    "_field_2": "2010-01-21 22:51:01.290000 UTC",
+    "_field_3": "machine-learning|bayesian-networks|causality|probability-theory"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2303510",
+    "_field_2": "2010-02-20 20:05:20.120000 UTC",
+    "_field_3": "machine-learning|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2074956",
+    "_field_2": "2010-01-15 21:38:28.717000 UTC",
+    "_field_3": "machine-learning|computer-vision|image-recognition"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2092403",
+    "_field_2": "2010-01-19 09:26:08.550000 UTC",
+    "_field_3": "c++|machine-learning|classification|pattern-recognition"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2255833",
+    "_field_2": "2010-02-12 23:42:58.000000 UTC",
+    "_field_3": "machine-learning|classification|svm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "1994431",
+    "_field_2": "2010-01-03 09:26:23.693000 UTC",
+    "_field_3": "machine-learning|artificial-intelligence|data-mining|terminology"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2239266",
+    "_field_2": "2010-02-10 18:14:56.693000 UTC",
+    "_field_3": "unit-testing|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2314850",
+    "_field_2": "2010-02-22 22:42:58.880000 UTC",
+    "_field_3": "algorithm|machine-learning|decision-tree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2303098",
+    "_field_2": "2010-02-20 18:05:39.637000 UTC",
+    "_field_3": "java|frameworks|machine-learning|nlp|information-retrieval"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2233435",
+    "_field_2": "2010-02-09 23:54:05.160000 UTC",
+    "_field_3": "math|machine-learning|nlp"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2268885",
+    "_field_2": "2010-02-15 21:04:30.207000 UTC",
+    "_field_3": "haskell|machine-learning|ocaml"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2196124",
+    "_field_2": "2010-02-03 22:51:58.643000 UTC",
+    "_field_3": "algorithm|language-agnostic|machine-learning|signal-processing|pattern-recognition"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3262874",
+    "_field_2": "2010-07-16 07:44:39.803000 UTC",
+    "_field_3": "machine-learning|spam-prevention"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3326310",
+    "_field_2": "2010-07-24 18:25:40.223000 UTC",
+    "_field_3": "java|python|artificial-intelligence|machine-learning|planning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3365952",
+    "_field_2": "2010-07-29 18:48:54.843000 UTC",
+    "_field_3": "machine-learning|expert-system|clips"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3311485",
+    "_field_2": "2010-07-22 17:13:44.767000 UTC",
+    "_field_3": "machine-learning|nlp|similarity|tf-idf"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3669226",
+    "_field_2": "2010-09-08 15:17:11.450000 UTC",
+    "_field_3": "algorithm|graph|machine-learning|pagerank|jung"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3730118",
+    "_field_2": "2010-09-16 19:36:20.743000 UTC",
+    "_field_3": "python|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3754051",
+    "_field_2": "2010-09-20 17:54:51.797000 UTC",
+    "_field_3": "python|sql|math|machine-learning|regression"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3789856",
+    "_field_2": "2010-09-24 18:24:46.993000 UTC",
+    "_field_3": "machine-learning|data-mining|classification|pattern-recognition"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3840478",
+    "_field_2": "2010-10-01 15:09:52.373000 UTC",
+    "_field_3": "algorithm|artificial-intelligence|machine-learning|reinforcement-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4013525",
+    "_field_2": "2010-10-25 10:05:07.990000 UTC",
+    "_field_3": "machine-learning|dirichlet"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3687231",
+    "_field_2": "2010-09-10 18:23:04.440000 UTC",
+    "_field_3": "java|machine-learning|decision-tree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3415214",
+    "_field_2": "2010-08-05 13:38:50.390000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3609303",
+    "_field_2": "2010-08-31 13:07:00.930000 UTC",
+    "_field_3": "machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3638488",
+    "_field_2": "2010-09-03 18:19:50.833000 UTC",
+    "_field_3": "web-services|machine-learning|nlp|machine-translation"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3871473",
+    "_field_2": "2010-10-06 10:17:24.453000 UTC",
+    "_field_3": "r|machine-learning|data-mining|weka"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4011115",
+    "_field_2": "2010-10-25 00:09:12.753000 UTC",
+    "_field_3": "python|machine-learning|bayesian|biopython"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3648917",
+    "_field_2": "2010-09-06 03:54:23.017000 UTC",
+    "_field_3": "machine-learning|classification|weka"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3865650",
+    "_field_2": "2010-10-05 16:22:03.983000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3688075",
+    "_field_2": "2010-09-10 20:22:41.327000 UTC",
+    "_field_3": "opencv|machine-learning|computer-vision|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3837692",
+    "_field_2": "2010-10-01 08:49:48.393000 UTC",
+    "_field_3": "python|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3408867",
+    "_field_2": "2010-08-04 19:00:16.770000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|rdf|semantics|owl"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3663605",
+    "_field_2": "2010-09-08 00:00:31.290000 UTC",
+    "_field_3": "machine-learning|classification|weka"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3686661",
+    "_field_2": "2010-09-10 17:05:32.193000 UTC",
+    "_field_3": "language-agnostic|random|conditional|machine-learning|field"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3910617",
+    "_field_2": "2010-10-11 23:19:45.960000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3416522",
+    "_field_2": "2010-08-05 15:48:30.890000 UTC",
+    "_field_3": "opencv|machine-learning|svm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3747585",
+    "_field_2": "2010-09-19 21:43:01.277000 UTC",
+    "_field_3": "machine-learning|classification|decision-tree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3807531",
+    "_field_2": "2010-09-27 20:22:17.590000 UTC",
+    "_field_3": "python|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3820707",
+    "_field_2": "2010-09-29 10:24:37.010000 UTC",
+    "_field_3": "machine-learning|information-retrieval"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3856013",
+    "_field_2": "2010-10-04 14:07:37.610000 UTC",
+    "_field_3": "python|machine-learning|classification|svm|pyml"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3326145",
+    "_field_2": "2010-07-24 17:39:17.467000 UTC",
+    "_field_3": "matlab|machine-learning|similarity|time-series|r-tree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3590001",
+    "_field_2": "2010-08-28 08:09:53.860000 UTC",
+    "_field_3": "algorithm|machine-learning|cluster-analysis|information-retrieval|tf-idf"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3489558",
+    "_field_2": "2010-08-15 22:35:01.530000 UTC",
+    "_field_3": "language-agnostic|machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3854404",
+    "_field_2": "2010-10-04 10:37:57.357000 UTC",
+    "_field_3": "c#|machine-learning|hidden|markov-models"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3247952",
+    "_field_2": "2010-07-14 15:47:12.247000 UTC",
+    "_field_3": "python|machine-learning|expert-system|clips"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3222192",
+    "_field_2": "2010-07-11 07:10:16.013000 UTC",
+    "_field_3": "machine-learning|weka"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3496272",
+    "_field_2": "2010-08-16 18:50:59.617000 UTC",
+    "_field_3": "animation|machine-learning|neural-network|physics|genetic-algorithm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3508947",
+    "_field_2": "2010-08-18 04:18:36.850000 UTC",
+    "_field_3": "c++|machine-learning|lgpl"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3967460",
+    "_field_2": "2010-10-19 10:38:16.510000 UTC",
+    "_field_3": "c#|machine-learning|svm|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3619184",
+    "_field_2": "2010-09-01 14:33:58.967000 UTC",
+    "_field_3": "algorithm|syntax|machine-learning|analysis|lexical-analysis"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3701278",
+    "_field_2": "2010-09-13 14:19:51.770000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|probability|planning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3777154",
+    "_field_2": "2010-09-23 09:51:03.653000 UTC",
+    "_field_3": "language-agnostic|function|machine-learning|neural-network|approximation"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3853490",
+    "_field_2": "2010-10-04 07:54:46.180000 UTC",
+    "_field_3": "open-source|machine-learning|data-mining|computer-vision|decision-tree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3299960",
+    "_field_2": "2010-07-21 13:52:04.620000 UTC",
+    "_field_3": "java|python|machine-learning|language-model"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3557422",
+    "_field_2": "2010-08-24 14:19:33.630000 UTC",
+    "_field_3": "opencv|machine-learning|computer-vision|svm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3561947",
+    "_field_2": "2010-08-25 00:04:25.440000 UTC",
+    "_field_3": "data-structures|machine-learning|computational-geometry|kdtree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3800853",
+    "_field_2": "2010-09-27 03:10:12.787000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|reinforcement-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3335742",
+    "_field_2": "2010-07-26 14:24:07.617000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|ontology"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3337272",
+    "_field_2": "2010-07-26 17:21:05.163000 UTC",
+    "_field_3": "machine-learning|nlp|rdf|semantic-web|ontology"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3902137",
+    "_field_2": "2010-10-10 20:48:51.467000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|data-mining|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3431505",
+    "_field_2": "2010-08-07 18:15:14.680000 UTC",
+    "_field_3": "matlab|machine-learning|classification|adaboost"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3725279",
+    "_field_2": "2010-09-16 09:18:25.783000 UTC",
+    "_field_3": "machine-learning|data-mining"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3770678",
+    "_field_2": "2010-09-22 15:10:00.900000 UTC",
+    "_field_3": "algorithm|machine-learning|prediction|black-box"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3838785",
+    "_field_2": "2010-10-01 11:38:13.080000 UTC",
+    "_field_3": "c#|machine-learning|sequence|classification|time-series"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3289589",
+    "_field_2": "2010-07-20 11:51:55.803000 UTC",
+    "_field_3": "machine-learning|information-theory"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3345079",
+    "_field_2": "2010-07-27 15:13:49.820000 UTC",
+    "_field_3": "machine-learning|neural-network|deep-learning|artificial-intelligence"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3775032",
+    "_field_2": "2010-09-23 02:27:49.767000 UTC",
+    "_field_3": "machine-learning|math|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3457158",
+    "_field_2": "2010-08-11 09:49:35.367000 UTC",
+    "_field_3": "algorithm|math|programming-languages|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3491112",
+    "_field_2": "2010-08-16 06:44:17.250000 UTC",
+    "_field_3": "machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3967904",
+    "_field_2": "2010-10-19 11:39:19.757000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|decision-tree|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3486181",
+    "_field_2": "2010-08-15 04:23:26.667000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|time-series|quantitative-finance|forex"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3992314",
+    "_field_2": "2010-10-21 21:56:26.077000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|data-mining|decision-tree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3339937",
+    "_field_2": "2010-07-27 00:29:15.650000 UTC",
+    "_field_3": "algorithm|computer-science|machine-learning|semantics|game-theory"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3764444",
+    "_field_2": "2010-09-21 21:01:42.893000 UTC",
+    "_field_3": "machine-learning|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3934160",
+    "_field_2": "2010-10-14 14:23:30.080000 UTC",
+    "_field_3": "java|machine-learning|bayesian-networks|belief-propagation"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3387196",
+    "_field_2": "2010-08-02 11:17:33.367000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4011526",
+    "_field_2": "2010-10-25 02:31:02.833000 UTC",
+    "_field_3": "python|parsing|machine-learning|nlp|information-extraction"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3906682",
+    "_field_2": "2010-10-11 13:31:39.210000 UTC",
+    "_field_3": "python|image-processing|opencv|machine-learning|barcode-scanner"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3976481",
+    "_field_2": "2010-10-20 09:39:54.747000 UTC",
+    "_field_3": "c#|.net|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3417709",
+    "_field_2": "2010-08-05 18:04:16.807000 UTC",
+    "_field_3": "machine-learning|data-mining|information-retrieval"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3446622",
+    "_field_2": "2010-08-10 06:41:21.957000 UTC",
+    "_field_3": "machine-learning|libsvm|svm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3890734",
+    "_field_2": "2010-10-08 13:04:34.760000 UTC",
+    "_field_3": "c#|artificial-intelligence|machine-learning|text-processing"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3657801",
+    "_field_2": "2010-09-07 10:30:54.383000 UTC",
+    "_field_3": "matlab|machine-learning|cluster-analysis|k-means"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3513753",
+    "_field_2": "2010-08-18 15:27:50.623000 UTC",
+    "_field_3": "machine-learning|google-prediction"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3419400",
+    "_field_2": "2010-08-05 21:38:19.017000 UTC",
+    "_field_3": "python|machine-learning|fuzzy-search|spelling"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3237847",
+    "_field_2": "2010-07-13 13:54:31.617000 UTC",
+    "_field_3": "machine-learning|data-mining|decision-tree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3315558",
+    "_field_2": "2010-07-23 05:23:30.477000 UTC",
+    "_field_3": "statistics|machine-learning|computer-vision"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3495157",
+    "_field_2": "2010-08-16 16:25:53.370000 UTC",
+    "_field_3": "machine-learning|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3473612",
+    "_field_2": "2010-08-13 03:06:00.217000 UTC",
+    "_field_3": "machine-learning|naivebayes"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3997454",
+    "_field_2": "2010-10-22 13:52:16.127000 UTC",
+    "_field_3": "algorithm|machine-learning|classification|svm|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3920759",
+    "_field_2": "2010-10-13 04:25:42.193000 UTC",
+    "_field_3": "machine-learning|nlp|sentiment-analysis"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2745640",
+    "_field_2": "2010-04-30 15:25:25.583000 UTC",
+    "_field_3": "machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2761008",
+    "_field_2": "2010-05-03 20:31:28.730000 UTC",
+    "_field_3": "image-processing|machine-learning|training-data|adaboost"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2904380",
+    "_field_2": "2010-05-25 12:08:39.030000 UTC",
+    "_field_3": "machine-learning|weka|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3113661",
+    "_field_2": "2010-06-24 20:34:19.340000 UTC",
+    "_field_3": "algorithm|optimization|machine-learning|graph-theory|genetic-algorithm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2669777",
+    "_field_2": "2010-04-19 18:13:50.913000 UTC",
+    "_field_3": "machine-learning|nlp|svm|perceptron"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2749498",
+    "_field_2": "2010-05-01 09:56:06.983000 UTC",
+    "_field_3": "machine-learning|neural-network|reinforcement-learning|markov"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2929023",
+    "_field_2": "2010-05-28 12:45:08.863000 UTC",
+    "_field_3": "machine-learning|artificial-intelligence|reinforcement-learning|markov-models|temporal-difference"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3118687",
+    "_field_2": "2010-06-25 14:15:05.807000 UTC",
+    "_field_3": "machine-learning|jpeg"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2480363",
+    "_field_2": "2010-03-19 20:22:07.547000 UTC",
+    "_field_3": "php|python|command-line|asynchronous|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2658384",
+    "_field_2": "2010-04-17 12:47:42.707000 UTC",
+    "_field_3": "java|data-structures|model|schema|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2761240",
+    "_field_2": "2010-05-03 21:11:28.367000 UTC",
+    "_field_3": "java|machine-learning|svm|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2931239",
+    "_field_2": "2010-05-28 17:39:18.307000 UTC",
+    "_field_3": "artificial-intelligence|data-modeling|machine-learning|neural-network|probability"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2763908",
+    "_field_2": "2010-05-04 08:47:25.170000 UTC",
+    "_field_3": "machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3017455",
+    "_field_2": "2010-06-10 18:47:58.680000 UTC",
+    "_field_3": "machine-learning|nlp|information-retrieval|tf-idf"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3198111",
+    "_field_2": "2010-07-07 19:24:46.847000 UTC",
+    "_field_3": "r|statistics|machine-learning|feature-selection|random-forest"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2523956",
+    "_field_2": "2010-03-26 14:27:02.033000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|expert-system|semantic-analysis"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3017701",
+    "_field_2": "2010-06-10 19:21:21.760000 UTC",
+    "_field_3": "machine-learning|data-mining|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2611765",
+    "_field_2": "2010-04-10 00:35:26.067000 UTC",
+    "_field_3": "machine-learning|classification|pattern-recognition|biometrics|weka"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3048170",
+    "_field_2": "2010-06-15 18:58:09.203000 UTC",
+    "_field_3": "matlab|machine-learning|artificial-intelligence|neural-network|rbm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2430317",
+    "_field_2": "2010-03-12 03:27:33.907000 UTC",
+    "_field_3": "machine-learning|computer-vision|image-recognition"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2907919",
+    "_field_2": "2010-05-25 19:39:00.217000 UTC",
+    "_field_3": "python|numpy|cluster-analysis|machine-learning|scipy"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2781752",
+    "_field_2": "2010-05-06 14:18:17.623000 UTC",
+    "_field_3": "machine-learning|nlp|data-mining|naivebayes"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3070789",
+    "_field_2": "2010-06-18 15:08:39.170000 UTC",
+    "_field_3": "matlab|machine-learning|svm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2674430",
+    "_field_2": "2010-04-20 10:55:03.857000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|neural-network|classification|pattern-recognition"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3031542",
+    "_field_2": "2010-06-13 08:11:29.153000 UTC",
+    "_field_3": "machine-learning|svm|matlab"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3120839",
+    "_field_2": "2010-06-25 19:26:35.807000 UTC",
+    "_field_3": "matlab|machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2753906",
+    "_field_2": "2010-05-02 15:20:27.190000 UTC",
+    "_field_3": "machine-learning|neural-network|testcase"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2754680",
+    "_field_2": "2010-05-02 19:31:39.757000 UTC",
+    "_field_3": "algorithm|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2985135",
+    "_field_2": "2010-06-06 17:29:56.790000 UTC",
+    "_field_3": "python|numpy|cluster-analysis|machine-learning|scipy"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3128636",
+    "_field_2": "2010-06-27 19:41:35.090000 UTC",
+    "_field_3": "matlab|computer-science|artificial-intelligence|machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2496270",
+    "_field_2": "2010-03-22 22:37:57.847000 UTC",
+    "_field_3": "authentication|machine-learning|biometrics"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2561513",
+    "_field_2": "2010-04-01 15:25:23.547000 UTC",
+    "_field_3": "machine-learning|smo|classification|svm|convex-optimization"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2755431",
+    "_field_2": "2010-05-02 23:26:31.483000 UTC",
+    "_field_3": "search|artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2908923",
+    "_field_2": "2010-05-25 22:14:45.657000 UTC",
+    "_field_3": "matlab|machine-learning|bayesian"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2983472",
+    "_field_2": "2010-06-06 07:35:09.243000 UTC",
+    "_field_3": "java|machine-learning|weka|moa"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3076208",
+    "_field_2": "2010-06-19 16:15:47.217000 UTC",
+    "_field_3": "iphone|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3213651",
+    "_field_2": "2010-07-09 14:37:59.460000 UTC",
+    "_field_3": "machine-learning|data-mining"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2444953",
+    "_field_2": "2010-03-15 03:39:08.590000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|nlp"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2651579",
+    "_field_2": "2010-04-16 08:27:26.977000 UTC",
+    "_field_3": "machine-learning|som|self-organizing-maps"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2750608",
+    "_field_2": "2010-05-01 16:04:39.563000 UTC",
+    "_field_3": "machine-learning|probability|neural-network|reinforcement-learning|markov-models"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2846038",
+    "_field_2": "2010-05-17 00:12:44.733000 UTC",
+    "_field_3": "machine-learning|neural-network|reinforcement-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2430197",
+    "_field_2": "2010-03-12 02:48:27.480000 UTC",
+    "_field_3": "frameworks|artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2509631",
+    "_field_2": "2010-03-24 16:49:27.037000 UTC",
+    "_field_3": "machine-learning|nlp|wordnet"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2524129",
+    "_field_2": "2010-03-26 14:52:40.193000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2761590",
+    "_field_2": "2010-05-03 22:17:57.710000 UTC",
+    "_field_3": "java|machine-learning|probability|svm|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2940606",
+    "_field_2": "2010-05-30 22:39:30.557000 UTC",
+    "_field_3": "algorithm|networking|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2570152",
+    "_field_2": "2010-04-03 03:36:31.943000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|svm|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2874657",
+    "_field_2": "2010-05-20 14:29:24.830000 UTC",
+    "_field_3": "machine-learning|neural-network|biological-neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2967584",
+    "_field_2": "2010-06-03 15:49:33.310000 UTC",
+    "_field_3": "machine-learning|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3193756",
+    "_field_2": "2010-07-07 10:07:00.933000 UTC",
+    "_field_3": "python|machine-learning|adaboost"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2519997",
+    "_field_2": "2010-03-25 22:48:34.873000 UTC",
+    "_field_3": "matlab|machine-learning|neural-network|false-positive"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2557289",
+    "_field_2": "2010-03-31 23:54:58.433000 UTC",
+    "_field_3": "algorithm|machine-learning|som|self-organizing-maps|convergence"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2567483",
+    "_field_2": "2010-04-02 15:29:25.467000 UTC",
+    "_field_3": "python|artificial-intelligence|machine-learning|svm|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2574915",
+    "_field_2": "2010-04-04 15:28:34.410000 UTC",
+    "_field_3": "c++|algorithm|image-processing|machine-learning|hash"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2417716",
+    "_field_2": "2010-03-10 14:41:56.663000 UTC",
+    "_field_3": "matlab|machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2707848",
+    "_field_2": "2010-04-25 10:22:31.690000 UTC",
+    "_field_3": "machine-learning|neural-network|deep-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2940644",
+    "_field_2": "2010-05-30 22:52:41.573000 UTC",
+    "_field_3": "python|numpy|machine-learning|scipy|hcluster"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2977999",
+    "_field_2": "2010-06-04 21:42:38.163000 UTC",
+    "_field_3": "r|machine-learning|ggplot2|gaussian"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2604159",
+    "_field_2": "2010-04-08 23:36:49.377000 UTC",
+    "_field_3": "machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2429953",
+    "_field_2": "2010-03-12 01:39:18.330000 UTC",
+    "_field_3": "machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2717976",
+    "_field_2": "2010-04-27 00:34:30.683000 UTC",
+    "_field_3": "programming-languages|implementation|machine-learning|spam-prevention"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2525087",
+    "_field_2": "2010-03-26 16:52:29.423000 UTC",
+    "_field_3": "c++|machine-learning|kdtree|knn"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3086304",
+    "_field_2": "2010-06-21 16:07:51.090000 UTC",
+    "_field_3": "machine-learning|neural-network|recommendation-engine"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2757856",
+    "_field_2": "2010-05-03 12:09:41.607000 UTC",
+    "_field_3": "machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2854540",
+    "_field_2": "2010-05-18 04:18:58.287000 UTC",
+    "_field_3": "machine-learning|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2995886",
+    "_field_2": "2010-06-08 08:49:56.577000 UTC",
+    "_field_3": "machine-learning|classification|regression"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2396639",
+    "_field_2": "2010-03-07 14:49:45.377000 UTC",
+    "_field_3": "matlab|machine-learning|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2415418",
+    "_field_2": "2010-03-10 08:29:09.263000 UTC",
+    "_field_3": "machine-learning|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2500467",
+    "_field_2": "2010-03-23 14:00:41.737000 UTC",
+    "_field_3": "java|python|machine-learning|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2680600",
+    "_field_2": "2010-04-21 05:41:57.417000 UTC",
+    "_field_3": "matlab|machine-learning|neural-network|softmax"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2829340",
+    "_field_2": "2010-05-13 18:37:20.063000 UTC",
+    "_field_3": "code-generation|machine-learning|nlp|classification|decision-tree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2978286",
+    "_field_2": "2010-06-04 22:51:04.677000 UTC",
+    "_field_3": "python|numpy|machine-learning|matplotlib|scipy"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2627833",
+    "_field_2": "2010-04-13 07:52:15.777000 UTC",
+    "_field_3": "language-agnostic|artificial-intelligence|machine-learning|genetic-algorithm|genetic-programming"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2755415",
+    "_field_2": "2010-05-02 23:20:20.723000 UTC",
+    "_field_3": "artificial-intelligence|logic|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2484761",
+    "_field_2": "2010-03-20 21:01:09.793000 UTC",
+    "_field_3": "machine-learning|pattern-recognition|decision-tree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3125527",
+    "_field_2": "2010-06-26 21:15:08.207000 UTC",
+    "_field_3": "matlab|r|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3216440",
+    "_field_2": "2010-07-09 20:47:16.163000 UTC",
+    "_field_3": "machine-learning|data-mining|nlp"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2762215",
+    "_field_2": "2010-05-04 01:15:14.970000 UTC",
+    "_field_3": "performance|machine-learning|deep-learning|perceptron"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2723999",
+    "_field_2": "2010-04-27 18:41:50.010000 UTC",
+    "_field_3": "c#|machine-learning|neural-network|reinforcement-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2750105",
+    "_field_2": "2010-05-01 13:33:27.273000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|classification|pattern-recognition|weka"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2785382",
+    "_field_2": "2010-05-07 00:13:12.910000 UTC",
+    "_field_3": "machine-learning|neural-network|probability|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2794240",
+    "_field_2": "2010-05-08 13:26:23.393000 UTC",
+    "_field_3": "machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3113428",
+    "_field_2": "2010-06-24 19:56:42.323000 UTC",
+    "_field_3": "python|machine-learning|nlp|nltk|naivebayes"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2402865",
+    "_field_2": "2010-03-08 16:34:30.917000 UTC",
+    "_field_3": "machine-learning|nlp|linguistics"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2415557",
+    "_field_2": "2010-03-10 08:59:52.837000 UTC",
+    "_field_3": "machine-learning|gnuplot|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3047940",
+    "_field_2": "2010-06-15 18:25:17.370000 UTC",
+    "_field_3": "matlab|machine-learning|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2425549",
+    "_field_2": "2010-03-11 14:11:30.187000 UTC",
+    "_field_3": "machine-learning|svm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2762146",
+    "_field_2": "2010-05-04 00:53:35.133000 UTC",
+    "_field_3": "matlab|image-processing|machine-learning|computer-vision"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2981764",
+    "_field_2": "2010-06-05 19:31:24.263000 UTC",
+    "_field_3": "machine-learning|dataset|data-mining"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2613368",
+    "_field_2": "2010-04-10 12:32:54.683000 UTC",
+    "_field_3": "matlab|artificial-intelligence|machine-learning|ocr|pattern-recognition"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2813349",
+    "_field_2": "2010-05-11 18:23:20.587000 UTC",
+    "_field_3": "c++|machine-learning|computer-vision|svm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2828954",
+    "_field_2": "2010-05-13 17:38:06.460000 UTC",
+    "_field_3": "algorithm|machine-learning|np-complete"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3043033",
+    "_field_2": "2010-06-15 06:42:30.200000 UTC",
+    "_field_3": "algorithm|machine-learning|load-balancing"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2474460",
+    "_field_2": "2010-03-19 01:32:12.873000 UTC",
+    "_field_3": "python|machine-learning|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2821575",
+    "_field_2": "2010-05-12 18:16:29.227000 UTC",
+    "_field_3": "java|machine-learning|nlp|text-processing|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2555049",
+    "_field_2": "2010-03-31 17:20:37.530000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|church-pl"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2434536",
+    "_field_2": "2010-03-12 17:24:45.120000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2650982",
+    "_field_2": "2010-04-16 06:12:45.390000 UTC",
+    "_field_3": "algorithm|machine-learning|mathematical-optimization|n-gram|markov"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3030652",
+    "_field_2": "2010-06-13 00:48:24.733000 UTC",
+    "_field_3": "artificial-intelligence|project|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2749150",
+    "_field_2": "2010-05-01 07:01:11.360000 UTC",
+    "_field_3": "machine-learning|nlp|spam|information-retrieval"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3077380",
+    "_field_2": "2010-06-19 21:55:10.113000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|simulation|physics|robotics"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2383936",
+    "_field_2": "2010-03-05 01:19:13.853000 UTC",
+    "_field_3": "java|c|matlab|machine-learning|svm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2492674",
+    "_field_2": "2010-03-22 13:48:02.487000 UTC",
+    "_field_3": "statistics|machine-learning|estimation|gaussian"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3068658",
+    "_field_2": "2010-06-18 09:54:54.700000 UTC",
+    "_field_3": "language-agnostic|machine-learning|robotics|robocup"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3176967",
+    "_field_2": "2010-07-05 02:25:41.237000 UTC",
+    "_field_3": "python|computer-science|artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2403921",
+    "_field_2": "2010-03-08 19:05:21.553000 UTC",
+    "_field_3": "java|artificial-intelligence|machine-learning|benchmarking"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2794272",
+    "_field_2": "2010-05-08 13:37:01.607000 UTC",
+    "_field_3": "algorithm|machine-learning|recommendation-engine"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2524608",
+    "_field_2": "2010-03-26 15:52:17.343000 UTC",
+    "_field_3": "python|compression|machine-learning|neural-network|evolutionary-algorithm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2661778",
+    "_field_2": "2010-04-18 09:39:23.953000 UTC",
+    "_field_3": "python|tags|machine-learning|nlp|nltk"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3109773",
+    "_field_2": "2010-06-24 12:11:15.400000 UTC",
+    "_field_3": "java|python|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2517591",
+    "_field_2": "2010-03-25 16:54:39.830000 UTC",
+    "_field_3": "algorithm|artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3047843",
+    "_field_2": "2010-06-15 18:14:26.997000 UTC",
+    "_field_3": "ruby|metaprogramming|machine-learning|grammar|genetic-programming"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2520018",
+    "_field_2": "2010-03-25 22:54:07.637000 UTC",
+    "_field_3": "python|artificial-intelligence|machine-learning|classification|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2691021",
+    "_field_2": "2010-04-22 13:09:55.183000 UTC",
+    "_field_3": "c|floating-point|machine-learning|spam-prevention"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2580062",
+    "_field_2": "2010-04-05 18:05:59.847000 UTC",
+    "_field_3": "python|machine-learning|naivebayes"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2915341",
+    "_field_2": "2010-05-26 17:32:41.010000 UTC",
+    "_field_3": "cluster-analysis|machine-learning|svm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2696392",
+    "_field_2": "2010-04-23 05:23:43.090000 UTC",
+    "_field_3": "machine-learning|nlp|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3208927",
+    "_field_2": "2010-07-08 23:58:02.753000 UTC",
+    "_field_3": "java|c++|machine-learning|mapreduce|text-mining"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2652121",
+    "_field_2": "2010-04-16 10:22:01.637000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2686981",
+    "_field_2": "2010-04-21 22:24:38.597000 UTC",
+    "_field_3": "f#|artificial-intelligence|machine-learning|finance|classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "3172509",
+    "_field_2": "2010-07-03 18:53:54.173000 UTC",
+    "_field_3": "python|statistics|numpy|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2620343",
+    "_field_2": "2010-04-12 06:55:27.763000 UTC",
+    "_field_3": "machine-learning|definition"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2595176",
+    "_field_2": "2010-04-07 19:10:24.887000 UTC",
+    "_field_3": "machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2931318",
+    "_field_2": "2010-05-28 17:52:00.460000 UTC",
+    "_field_3": "java|language-agnostic|artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2717476",
+    "_field_2": "2010-04-26 22:50:51.843000 UTC",
+    "_field_3": "algorithm|statistics|machine-learning|chess"
+  }
+}, {
+  "f0_": {
+    "_field_1": "2480650",
+    "_field_2": "2010-03-19 21:18:12.770000 UTC",
+    "_field_3": "machine-learning|neural-network|artificial-intelligence|backpropagation"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4126283",
+    "_field_2": "2010-11-08 17:24:22.893000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4056431",
+    "_field_2": "2010-10-29 22:42:54.590000 UTC",
+    "_field_3": "c++|machine-learning|decision-tree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4438079",
+    "_field_2": "2010-12-14 10:21:25.043000 UTC",
+    "_field_3": "matlab|machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4111979",
+    "_field_2": "2010-11-06 04:59:22.363000 UTC",
+    "_field_3": "nlp|machine-learning|latent-semantic-indexing|gensim"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4234921",
+    "_field_2": "2010-11-20 20:45:08.990000 UTC",
+    "_field_3": "machine-learning|weka"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4279421",
+    "_field_2": "2010-11-25 17:08:54.753000 UTC",
+    "_field_3": "machine-learning|svm|libsvm|categorization|document-classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4091172",
+    "_field_2": "2010-11-03 20:04:42.140000 UTC",
+    "_field_3": "python|matlab|artificial-intelligence|machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4098581",
+    "_field_2": "2010-11-04 15:59:30.457000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|data-mining|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4402110",
+    "_field_2": "2010-12-09 19:12:51.597000 UTC",
+    "_field_3": "matlab|machine-learning|computer-vision|octave|pca"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4496391",
+    "_field_2": "2010-12-21 04:53:58.643000 UTC",
+    "_field_3": "machine-learning|nlp|corpus"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4256948",
+    "_field_2": "2010-11-23 14:26:34.093000 UTC",
+    "_field_3": "optimization|machine-learning|heuristics|reinforcement-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4137544",
+    "_field_2": "2010-11-09 19:20:47.330000 UTC",
+    "_field_3": "machine-learning|web-crawler|data-mining"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4262000",
+    "_field_2": "2010-11-23 23:13:53.527000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|data-mining|decision-tree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4316099",
+    "_field_2": "2010-11-30 16:37:31.240000 UTC",
+    "_field_3": "excel|artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4353715",
+    "_field_2": "2010-12-04 13:27:27.297000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|bayesian"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4550443",
+    "_field_2": "2010-12-28 23:48:40.520000 UTC",
+    "_field_3": "machine-learning|neural-network|svm|dimensionality-reduction"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4394013",
+    "_field_2": "2010-12-09 01:18:59.720000 UTC",
+    "_field_3": "data-structures|machine-learning|nearest-neighbor|kdtree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4084668",
+    "_field_2": "2010-11-03 06:26:42.537000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|data-mining"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4189293",
+    "_field_2": "2010-11-15 22:04:46.257000 UTC",
+    "_field_3": "machine-learning|neural-network|deep-learning|backpropagation"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4543266",
+    "_field_2": "2010-12-28 02:33:05.970000 UTC",
+    "_field_3": "machine-learning|classification|svm|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4558830",
+    "_field_2": "2010-12-29 23:36:57.927000 UTC",
+    "_field_3": "machine-learning|similarity"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4295445",
+    "_field_2": "2010-11-28 04:54:57.603000 UTC",
+    "_field_3": "algorithm|math|machine-learning|linear-algebra"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4190455",
+    "_field_2": "2010-11-16 01:35:05.817000 UTC",
+    "_field_3": "ruby|artificial-intelligence|machine-learning|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4102357",
+    "_field_2": "2010-11-04 23:32:11.220000 UTC",
+    "_field_3": "machine-learning|k-means"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4542367",
+    "_field_2": "2010-12-27 22:42:50.720000 UTC",
+    "_field_3": "python|machine-learning|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4137622",
+    "_field_2": "2010-11-09 19:29:26.433000 UTC",
+    "_field_3": "apache|machine-learning|hadoop|mahout"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4102306",
+    "_field_2": "2010-11-04 23:23:07.253000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|data-mining|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4382999",
+    "_field_2": "2010-12-08 00:07:52.283000 UTC",
+    "_field_3": "machine-learning|computer-vision|classification|nearest-neighbor"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4100785",
+    "_field_2": "2010-11-04 20:03:42.813000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning|backpropagation|neural-network"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4092061",
+    "_field_2": "2010-11-03 21:59:36.577000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4290164",
+    "_field_2": "2010-11-27 04:41:35.040000 UTC",
+    "_field_3": "r|machine-learning|libraries|s-plus"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4207057",
+    "_field_2": "2010-11-17 17:03:40.207000 UTC",
+    "_field_3": "machine-learning|nlp|classification|document-classification"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4314869",
+    "_field_2": "2010-11-30 14:38:16.320000 UTC",
+    "_field_3": "algorithm|machine-learning|knn"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4274218",
+    "_field_2": "2010-11-25 06:10:53.347000 UTC",
+    "_field_3": "python|machine-learning|nearest-neighbor"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4483498",
+    "_field_2": "2010-12-19 14:58:29.003000 UTC",
+    "_field_3": "machine-learning|bayesian-networks"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4418450",
+    "_field_2": "2010-12-11 19:14:25.070000 UTC",
+    "_field_3": "python|machine-learning|nearest-neighbor|kdtree"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4210142",
+    "_field_2": "2010-11-17 23:08:48.423000 UTC",
+    "_field_3": "machine-learning|artificial-intelligence"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4263704",
+    "_field_2": "2010-11-24 05:18:49.903000 UTC",
+    "_field_3": "web-applications|artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4096747",
+    "_field_2": "2010-11-04 12:43:25.903000 UTC",
+    "_field_3": "machine-learning|metrics|distance|similarity"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4105538",
+    "_field_2": "2010-11-05 11:44:23.487000 UTC",
+    "_field_3": "statistics|machine-learning|artificial-intelligence|neural-network|rbm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4304810",
+    "_field_2": "2010-11-29 14:47:37.557000 UTC",
+    "_field_3": "machine-learning|3d|svm|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4286540",
+    "_field_2": "2010-11-26 15:28:54.523000 UTC",
+    "_field_3": "c#|validation|machine-learning|imaging"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4362569",
+    "_field_2": "2010-12-06 01:54:04.687000 UTC",
+    "_field_3": "algorithm|search|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4303283",
+    "_field_2": "2010-11-29 11:27:08.613000 UTC",
+    "_field_3": "artificial-intelligence|machine-learning"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4400697",
+    "_field_2": "2010-12-09 16:37:07.087000 UTC",
+    "_field_3": "data-structures|machine-learning|computer-science|fuzzy-logic"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4404081",
+    "_field_2": "2010-12-09 23:11:31.513000 UTC",
+    "_field_3": "algorithm|machine-learning|cluster-analysis|data-mining|k-means"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4411181",
+    "_field_2": "2010-12-10 16:44:36.367000 UTC",
+    "_field_3": "regex|machine-learning|regular-language"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4214868",
+    "_field_2": "2010-11-18 12:44:24.473000 UTC",
+    "_field_3": "python|machine-learning|svm|libsvm"
+  }
+}, {
+  "f0_": {
+    "_field_1": "4205105",
+    "_field_2": "2010-11-17 14:01:35.597000 UTC",
+    "_field_3": "statistics|machine-learning"
+  }
+}]

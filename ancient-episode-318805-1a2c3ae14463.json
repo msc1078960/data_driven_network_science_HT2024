@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ancient-episode-318805",
+  "private_key_id": "1a2c3ae14463a95b6c4f95666bebc004bf4f5563",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6MwjWVlAvFUTQ\nBvmV0/9VAwRaaiLQPJLv0TrACUHLHCQLdX3TasfovFHV54MFtO3aeQadteQ4fa9i\nBeOsljpH0bIR4zS2ytuvLc8RJ9qLFtu/8+oi6ISAaRXABAkjljMzT/2FgJNlYEFw\nz34++gzXiheN29Yc218JkAd1j8C4CWMMVdPsX9g2LZnHQaRkW8DygOUmKRzBQk8d\nl7dumId4KFhAHpn7EXDODDXrtvPmEqL35kzD5gsdpQ0ZVFSgNKJ3i8Y7+3nCnFV5\nQpDkMg+N5CJ76qEnHBlrNFGLINIV5/tGoPxlFbGOqL1kePwHjJEPD5TdH5rwKXMB\nTo2Sq0e7AgMBAAECggEAA64v2VEdlgKRQbU1A+F/meI3W+4/8g4Z+84nJZXgHR9A\n0qnT+7TAvjQC6vKwnRduIcTIgBmXCnX0xA9FgN77l8i6q1v8y3H59QulQV0ywUOu\nJCY+skOcvnzwsFVNOyI/sLEIAIW1l/Mf9DT1XSFbc/VnmMiK78k6LPC2g+Og7hAC\nCDObElYwhiKdpAM4Hq5kYBQcAEqsqYKQvUuRvuT4CG5mU6SGeo2CXQ5I03/CNkUP\nSb3XDfQGfukBYZgS23xIiCy8w+97SVvxVTTTn/X9Hpjh8agZJDnPvbIklS3ldL1p\ncAk4Q1P6MktZl2njUDJu2t/n7Cn6wrWB7Ss7UaYqvQKBgQD/iP9Q2POtHchsouai\nlMExTgLuuGFerzuys0a0ku6sGwzHVIPVvRj5tIL0I5IbdWA3H7eBjEopWhUC32ej\nWO1Ae0IhzdHbptODcb8c1UX18abDGVgePWjUJ9GI0DzNuoUaR9Lx3+fuOFBjUrYd\nNryvrAVaMeZ6+ugr2cTJlNJ49wKBgQC6ib9d65Z6PV/mIgHMDdQkfFSw5R0cKbus\nKcY5xDK/bLgPRuDnKJs1hgi8oKsw8NyvzyH75+suO5INfHdTArkvk6VC3Eh6XaQp\nTAFCPj+/qU+CDOxYxjaERlvpPbJjIv3LFDwIoiTdfyd7W9+WwaLJ9HiJlNJlM4X9\nleSHMKXaXQKBgQD8yUnJcNWeLBhZX81IiF+Vpta/0SaBxFgKL8+CUthI6Xl6tuC0\nUJykaS4i1g1znGnSHk4qmd3Dipm+fcLIlPAfGdASIMm5wQ78uUmV/GV5J9UQq8HA\nKH/LYJin/1gnLJz/oo3LOPT3dD4SA4Ck5cFDB6lD0Jlwj0WeG4/Q2qhbgQKBgQCk\nC+36x+uvFviWZ8PS0zqE176XTvaZxO3iC17jgHLsu8zmynuRbrmIiZZ3ZIkI4loC\nVxPY+G1wXD0mlRZPL27ys1K8CQPIcT+kfc4BlsLzaA+fHIRh0fcxvrqn1XVjD+vI\nQ8REB2yKSn/LUdHBQAtMti2nOPUKwRQOHls6tQK2lQKBgBiU6sQPBOqvCYVO+MuA\nmr6LUyqNWoPLfq0ZCnqF1BcEa4oWEkSa6fJsSyXtJPEPpBz7UJ236s794SPFg1b5\n2yZZFMBEVyh4bguM6rYVfFlWaGKQyfEU6+bV7X5w43r9CdReDWYzzE6NgWtDCKcq\nKLSjMaVFb5Wq57yT2SfbnKAS\n-----END PRIVATE KEY-----\n",
+  "client_email": "stack-overflow-network-science@ancient-episode-318805.iam.gserviceaccount.com",
+  "client_id": "108258016037323614142",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stack-overflow-network-science%40ancient-episode-318805.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
